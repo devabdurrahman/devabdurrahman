@@ -60,7 +60,7 @@ To sum it up, I can help take your vision for a gorgeous website and make it a r
 
 ## Github Stats  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devabdurrahman&show_icons=true&locale=en&layout=compact" alt="devabdurrahman" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=devabdurrahman&show_icons=true&count_private=true&hide_border=true"/></p>  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=devabdurrahman&show_icons=true&count_private=true&locale=en&layout=compact"/></p>  
 
 <br/>  
   
