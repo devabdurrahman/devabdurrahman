@@ -1,4 +1,4 @@
-<h3 align="center">A passionate Wordpress developer from India</h3>
+<h3 align="center">A passionate Wordpress developer</h3>
 
 - 🌱 I’m currently learning **Worpdress Plugin Development**
 
