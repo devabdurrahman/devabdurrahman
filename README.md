@@ -14,7 +14,7 @@ To sum it up, I can help take your vision for a gorgeous website and make it a r
 - 👨‍💻 Have any projects in your mind? [Reach me Now](https://www.fiverr.com/arrumi96)  
   
 
-- 💬 Ask me about Wordpress,<b> PHP, Html, Css, SCSS, Boostrap, Jquery</b>  
+- 💬 Ask me about <b>Wordpress, PHP, Html, Css, SCSS, Boostrap, Jquery</b>  
   
 
 - 📄 Know about my experiences [Portfolio](https://devabdurrahman.github.io)  
