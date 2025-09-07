@@ -21,6 +21,3 @@ To summarize, I can help take your vision for a gorgeous website and make it a r
   
 
 - ⚡ Fun fact: I Love to Travel...
-  
-
-<br/>  
