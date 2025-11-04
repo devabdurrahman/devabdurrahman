@@ -11,8 +11,11 @@ To summarize, I can help take your vision for a gorgeous website and make it a r
 </div>
   
 
-- 👨‍💻 Have any projects in your mind? [Reach me Now](https://devabdurrahman.com/contact)  
-  
+- 👨‍💻 Have any projects in your mind? [Reach me Now](https://devabdurrahman.com/contact)
+
+
+- 🌱 I’m currently learning React, Next JS & Headless Tech
+
 
 - 💬 Ask me about <b>WordPress, PHP, Html, CSS, SCSS, Bootstrap, Jquery</b>  
   
