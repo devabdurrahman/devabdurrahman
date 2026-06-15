@@ -17,7 +17,7 @@ To summarize, I can help take your vision for a gorgeous website and make it a r
 - 🌱 I’m currently learning React, Next JS & Headless Tech
 
 
-- 💬 Ask me about <b>WordPress, PHP, Html, CSS, SCSS, Bootstrap, Jquery, React, Next JS & Headless Tech</b>  
+- 💬 Ask me about <b>WordPress, PHP, Html, CSS, SCSS, Bootstrap, Jquery, React, Typescript, Next JS & Headless Tech</b>  
   
 
 - 📄 Know about my experiences [Portfolio](https://abdurrahman.rpixels.online/)
