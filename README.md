@@ -11,7 +11,7 @@ To summarize, I can help take your vision for a gorgeous website and make it a r
 </div>
   
 
-- 👨‍💻 Have any projects in your mind? [Reach me Now][(https://abdurrahman.rpixels.online/)
+- 👨‍💻 Have any projects in your mind? [Reach me Now](https://abdurrahman.rpixels.online/)
 
 
 - 🌱 I’m currently learning React, Next JS & Headless Tech
